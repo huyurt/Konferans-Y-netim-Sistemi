@@ -1,5 +1,7 @@
 # Konferans-Yonetim-Sistemi
 
+PHP, HTML (2017)
+
 **KONFERANS YÖNETİM SİSTEMİNİN YAPISI**
 
 Konferans yönetim sistemi projesi beş tür kullanıcıdan oluşmaktadır.
