@@ -180,7 +180,7 @@ Yazarın konferansa ait yüklemiş olduğu submissionların listelendiği sayfad
 
 Yazarın yükleyeceği dosyalar pdf, doc, docx, ppt, pptx olarak belirlenmiştir. Yazar submission dosyasını, başlığını, özetini ve keywordlerini doğru bir şekilde göndererek submissionu sisteme kaydedilir.
 
- ![](https://1.bp.blogspot.com/-35kglbClon8/WprRTrfieSI/AAAAAAAAAEI/RJRRhVPtdaYNzf16ALprOMudbcitSZDAACLcBGAs/s640/1.png)
+ ![](https://1.bp.blogspot.com/-BLapsPby9xU/WprVndEl_UI/AAAAAAAAAFk/13YcfcpQ1ZoN1rKZ_ar_z5qq_32ect_pQCLcBGAs/s640/1.png)
 
 Şekil 21. _Yeni Submission Oluşturma (index.php?sayfa=submission&amp;s=13&amp;koSubmission=_[konferansId]_)_
 
