@@ -1,6 +1,6 @@
 # Konferans-Yonetim-Sistemi
 
-PHP, HTML (2017)
+Php, Html, Sql (2017)
 
 **KONFERANS YÖNETİM SİSTEMİNİN YAPISI**
 
