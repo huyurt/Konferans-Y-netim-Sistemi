@@ -1,4 +1,4 @@
-# Konferans-Yonetim-Sistemi
+# Konferans Yönetim Sistemi
 
 Php, Html, Sql (2017)
 
